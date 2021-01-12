@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "Test Threat",
+    "owner": "Tilman und Julian",
+    "description": "Wir nutzen ein ausgedachtes Systems"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Julian Petrich"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Bedrohungsanalyse",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Julian und Tilman"
+  }
+}
